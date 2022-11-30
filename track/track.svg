@@ -27,7 +27,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.96102398"
-     inkscape:cx="311.12647"
+     inkscape:cx="537.44757"
      inkscape:cy="422.98632"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
@@ -55,6 +55,14 @@
        x="12.211616"
        y="8.4797163"
        ry="9.2485886" />
+    <rect
+       style="fill:#eeeeee;fill-opacity:1;stroke:#006800;stroke-width:3.30942;stroke-dasharray:none;stroke-opacity:1"
+       id="rect844-9"
+       width="24.547447"
+       height="16.915545"
+       x="223.55322"
+       y="9.0088835"
+       ry="4.4704275" />
     <g
        id="g3861"
        transform="matrix(0.73754799,0,0,1.0269946,34.284731,-16.5905)">
@@ -67,17 +75,6 @@
          id="path2281"
          d="m 66.939151,56.195075 c -1.014185,0.48216 -2.005415,1.004694 -2.964604,1.588248 -1.267883,0.917657 -2.046628,2.351681 -2.897997,3.635725 -0.793993,1.312309 -1.787792,2.405279 -2.887067,3.459371 -0.103852,0.106572 -0.581692,0.539758 -0.602755,0.755338 -0.01881,0.192511 0.01767,0.410144 0.134175,0.564552 0.316193,0.419092 1.554536,1.085678 1.897261,1.283353 1.481675,0.854597 2.968268,1.700636 4.452403,2.550954 -0.642427,-0.36694 -1.275987,-0.749855 -1.92728,-1.100817 -0.47398,-0.255416 0.928476,0.545475 1.395124,0.814051 1.523267,0.876708 3.050638,1.746269 4.57459,2.621783 0.427151,0.245398 1.710767,0.977609 1.278713,0.74095 -0.71388,-0.391031 -1.409833,-0.814256 -2.124337,-1.204146 -0.309211,-0.16873 0.605396,0.36031 0.908092,0.540465 1.795092,1.09787 3.592521,2.172996 5.494208,3.064211 0,0 -3.03507,-2.419308 -3.03507,-2.419308 v 0 c -1.145643,-0.560829 -3.834564,-2.057291 1.110943,0.729414 -1.92288,-1.125233 -2.753532,-1.61208 -5.276934,-3.07744 -0.421196,-0.244592 -1.681771,-0.983149 -1.267423,-0.727131 0.600826,0.37124 1.219724,0.712428 1.827059,1.07292 0.458033,0.271873 -0.919427,-0.538035 -1.379144,-0.807053 -1.504383,-0.873072 -3.008767,-1.746144 -4.513151,-2.619214 4.290931,2.507457 1.174975,0.705125 0.175996,0.130236 -0.106252,-0.06114 -0.277506,-0.07338 -0.314786,-0.190164 -0.08647,-0.270896 0.579512,-0.497327 0.507511,-0.68571 1.091784,-1.083207 2.111867,-2.213729 2.899473,-3.546943 0.828337,-1.238113 1.590239,-2.615557 2.850335,-3.465248 0.96125,-0.580128 1.955366,-1.101717 2.994187,-1.53085 0,0 -3.309522,-2.177547 -3.309522,-2.177547 z" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#006800;stroke-width:0.01;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       x="147.80649"
-       y="84.826653"
-       id="text4087"
-       transform="rotate(56.374146)"><tspan
-         sodipodi:role="line"
-         id="tspan4139"
-         x="147.80649"
-         y="84.826653">UNDAUNTED</tspan></text>
   </g>
   <g
      inkscape:label="middle layer"
@@ -113,13 +110,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006800;fill-opacity:1;stroke:#006800;stroke-width:0.264583;stroke-opacity:1"
-       x="224.27873"
-       y="18.020706"
+       x="252.34084"
+       y="12.310977"
        id="text1070-5"><tspan
          sodipodi:role="line"
          id="tspan2447"
-         x="224.27873"
-         y="18.020706">Supply</tspan></text>
+         x="252.34084"
+         y="12.310977">Supply</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006800;fill-opacity:1;stroke:#006800;stroke-width:0.264583;stroke-opacity:1"
@@ -188,33 +185,77 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
-       x="239.948"
-       y="49.686165"
+       x="238.94313"
+       y="42.528"
        id="text1070-4-0-5-9-0"><tspan
          sodipodi:role="line"
          id="tspan3434"
-         x="239.948"
-         y="49.686165">Bolster</tspan></text>
+         x="238.94313"
+         y="42.528">Bolster</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Terminus;-inkscape-font-specification:'Terminus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
        x="179.58398"
-       y="39.6805"
+       y="39.151333"
        id="text1070-4-0-5-9-0-06"><tspan
          sodipodi:role="line"
          id="tspan3964"
          x="179.58398"
-         y="39.6805">hunker down</tspan></text>
+         y="39.151333">hunker down</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Terminus;-inkscape-font-specification:'Terminus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
+       x="54.113781"
+       y="128.48257"
+       id="text1070-4-0-5-9-0-06-9"><tspan
+         sodipodi:role="line"
+         id="tspan868"
+         x="54.113781"
+         y="128.48257">(remove 1 fog from game,</tspan><tspan
+         sodipodi:role="line"
+         id="tspan870"
+         x="54.113781"
+         y="132.89229">draw 1 card)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
-       x="55.556309"
-       y="114.68935"
+       x="239.47229"
+       y="64.193993"
+       id="text1070-4-0-5-9-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan411"
+         x="239.47229"
+         y="64.193993">Scout</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Terminus;-inkscape-font-specification:'Terminus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
+       x="238.90283"
+       y="68.175674"
+       id="text1070-4-0-5-9-0-06-7"><tspan
+         sodipodi:role="line"
+         id="tspan878"
+         x="238.90283"
+         y="68.175674">(1 fog per scouted sq)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
+       x="53.992168"
+       y="116.0397"
        id="text1070-4-0-5-9-0-0"><tspan
          sodipodi:role="line"
          id="tspan3568"
-         x="55.556309"
-         y="114.68935">Command</tspan></text>
+         x="53.992168"
+         y="116.0397">Command</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
+       x="53.725517"
+       y="124.19836"
+       id="text1070-4-0-5-9-0-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan872"
+         x="53.725517"
+         y="124.19836">Recon</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
@@ -225,6 +266,121 @@
          id="tspan3857"
          x="85.3871"
          y="147.74814">Inspire</tspan></text>
+    <g
+       id="g2101"
+       transform="translate(2.7531398,-0.12741699)">
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:#006800;stroke-width:0.265635;stroke-miterlimit:4.5;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect1079"
+         width="61.84943"
+         height="42.211136"
+         x="4.7548108"
+         y="157.59491"
+         ry="6.6815395" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
+         x="8.7666998"
+         y="163.44231"
+         id="text1070-4-0-5-9-0-0-1-8"><tspan
+           sodipodi:role="line"
+           id="tspan550"
+           x="8.7666998"
+           y="163.44231">Casualties:</tspan></text>
+      <g
+         id="g2070"
+         transform="translate(0,-2.2727018)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006800;fill-opacity:1;stroke:#006800;stroke-width:0.264583;stroke-opacity:1"
+           x="8.5944452"
+           y="185.46346"
+           id="text1070-53-3"><tspan
+             sodipodi:role="line"
+             id="tspan668"
+             x="8.5944452"
+             y="185.46346">Discard Pile</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Terminus;-inkscape-font-specification:'Terminus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
+           x="46.34021"
+           y="185.47345"
+           id="text1070-4-0-5-9-0-0-1-8-5"><tspan
+             sodipodi:role="line"
+             id="tspan583"
+             x="46.34021"
+             y="185.47345">or</tspan></text>
+      </g>
+      <g
+         id="g2064"
+         transform="translate(0,-3.4090528)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006800;fill-opacity:1;stroke:#006800;stroke-width:0.264583;stroke-opacity:1"
+           x="8.5944452"
+           y="192.65865"
+           id="text1070-53-7"><tspan
+             sodipodi:role="line"
+             id="tspan697"
+             x="8.5944452"
+             y="192.65865">Deck</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Terminus;-inkscape-font-specification:'Terminus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
+           x="46.34021"
+           y="192.97897"
+           id="text1070-4-0-5-9-0-0-1-8-5-95"><tspan
+             sodipodi:role="line"
+             id="tspan753"
+             x="46.34021"
+             y="192.97897">or else</tspan></text>
+      </g>
+      <g
+         id="g2076"
+         transform="translate(0,-1.1363509)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006800;fill-opacity:1;stroke:#006800;stroke-width:0.264583;stroke-opacity:1"
+           x="8.5944452"
+           y="178.26826"
+           id="text1070-53"><tspan
+             sodipodi:role="line"
+             id="tspan1068-8"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006800;fill-opacity:1;stroke:#006800;stroke-width:0.264583;stroke-opacity:1"
+             x="8.5944452"
+             y="178.26826">Hand</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Terminus;-inkscape-font-specification:'Terminus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
+           x="46.34021"
+           y="178.27826"
+           id="text1070-4-0-5-9-0-0-1-8-5-93"><tspan
+             sodipodi:role="line"
+             id="tspan583-0"
+             x="46.34021"
+             y="178.27826">or</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Terminus;-inkscape-font-specification:'Terminus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
+         x="8.9920092"
+         y="171.08307"
+         id="text1070-4-0-5-9-0-0-1-8-5-9"><tspan
+           sodipodi:role="line"
+           id="tspan639"
+           x="8.9920092"
+           y="171.08307">take card from</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Terminus;-inkscape-font-specification:'Terminus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
+         x="8.6922865"
+         y="195.61882"
+         id="text1070-4-0-5-9-0-0-1-8-5-9-0"><tspan
+           sodipodi:role="line"
+           id="tspan782"
+           x="8.6922865"
+           y="195.61882">remove counter from map</tspan></text>
+    </g>
     <g
        id="g1921"
        transform="translate(105.85443,29.10042)">
@@ -319,13 +475,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006800;fill-opacity:1;stroke:#006800;stroke-width:0.264583;stroke-opacity:1"
-       x="244.15558"
-       y="106.02216"
+       x="253.46036"
+       y="98.47554"
        id="text1070-9"><tspan
          sodipodi:role="line"
-         id="tspan1463"
-         x="244.15558"
-         y="106.02216">Discard Pile</tspan></text>
+         id="tspan349"
+         x="253.46036"
+         y="98.47554">Discard</tspan><tspan
+         sodipodi:role="line"
+         id="tspan351"
+         x="253.46036"
+         y="106.41304">Pile</tspan></text>
     <path
        style="fill:#de1600;fill-opacity:1;stroke:#de1600;stroke-width:2.05541;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="path3871"
