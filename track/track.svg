@@ -8,24 +8,26 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="undaunted.svg"
+   sodipodi:docname="track.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.96102398"
-     inkscape:cx="560.86009"
+     inkscape:cx="435.99328"
      inkscape:cy="422.98632"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
@@ -34,27 +36,7 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs2">
-    <marker
-       style="overflow:visible"
-       id="Arrow5"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Arrow5"
-       markerWidth="5.88742624"
-       markerHeight="6.60947576"
-       viewBox="0 0 5.88742624 6.60947576"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
-         id="path8893" />
-    </marker>
-  </defs>
+     id="defs2" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -161,7 +143,7 @@
          sodipodi:role="line"
          id="tspan1411"
          x="14.868783"
-         y="116.90728"></tspan></text>
+         y="116.90728" /></text>
     <rect
        style="fill:#eeeeee;fill-opacity:1;stroke:#006800;stroke-width:3.30942;stroke-dasharray:none;stroke-opacity:1"
        id="rect844-7"
@@ -353,4 +335,29 @@
        id="path3873"
        d="m 214.08511,24.706603 c 2.74891,0.0405 5.49789,0.07438 8.24664,0.01746 1.58094,-0.01115 3.14148,-0.134571 4.70189,-0.268481 0.92794,-0.10475 1.86422,-0.165822 2.80706,-0.207635 0.0688,0.01835 0.27074,0.07836 0.20643,0.05505 -1.16038,-0.420538 -2.29608,-0.867091 -3.49607,-1.247265 -0.0622,-0.01971 -0.0885,0.0648 -0.12992,0.0985 -0.36915,0.301112 -0.59321,0.608331 -0.82219,0.953521 -0.46377,0.843466 -0.64407,1.723932 -0.64239,2.606947 0.045,0.662492 8.2e-4,1.327025 -0.0796,1.988006 -0.16481,0.665657 -0.21054,1.330385 -0.1628,2.001354 0.0764,0.475828 0.078,0.946023 -0.0154,1.420114 0,0 3.63297,1.119127 3.63297,1.119127 v 0 c 0.0941,-0.488547 0.1277,-0.972576 0.0222,-1.462774 -0.0692,-0.663264 -0.0544,-1.319947 0.1165,-1.978965 0.10913,-0.66577 0.16946,-1.34072 0.10208,-2.008658 -0.0526,-0.85567 0.0929,-1.71041 0.55444,-2.527368 0.20273,-0.292949 0.24924,-0.405668 0.53847,-0.662104 0.084,-0.0745 0.18909,-0.140024 0.28431,-0.209724 0.0799,-0.05849 0.33948,-0.127121 0.24102,-0.174834 -2.93916,-1.424273 -2.08744,-1.432068 -3.673,-1.363834 -0.94579,0.05797 -1.89193,0.113227 -2.82644,0.219753 -1.50603,0.153273 -3.01682,0.276111 -4.54831,0.298558 -2.79651,0.07345 -5.59523,0.0409 -8.38641,-0.08854 0,0 3.32862,1.42179 3.32862,1.42179 z" />
   </g>
+  <metadata
+     id="metadata296">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
 </svg>
