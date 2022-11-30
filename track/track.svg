@@ -28,7 +28,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.96102398"
-     inkscape:cx="393.85073"
+     inkscape:cx="260.65947"
      inkscape:cy="422.98632"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
@@ -183,13 +183,11 @@
        y="129.54089"
        id="text1070-4-0-5-9-0-06-9"><tspan
          sodipodi:role="line"
-         id="tspan868"
-         x="54.113781"
-         y="129.54089">(remove 1 fog from game,</tspan><tspan
+         id="tspan418">(move 1 fog card</tspan><tspan
          sodipodi:role="line"
-         id="tspan870"
-         x="54.113781"
-         y="133.95062">draw 1 card)</tspan></text><text
+         id="tspan420">from hand to box,</tspan><tspan
+         sodipodi:role="line"
+         id="tspan422">draw 1 card)</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Terminus;-inkscape-font-specification:'Terminus, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#de1609;fill-opacity:1;stroke:#de1600;stroke-width:0.264583;stroke-opacity:1"
        x="235.23901"
