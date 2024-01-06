@@ -1,7 +1,7 @@
 
 # Undaunted
 
-Tools to play Undaunted [Normandy].
+Tools to play Undaunted Normandy and Battle of Britain.
 
 
 ## track
@@ -14,7 +14,16 @@ The track as first used:
 
 The current version of the Normandy track (click to get to the SVG):
 
-[![the track itself (jpg)](doc/track.jpg)](track/normandy.svg)
+[![the track itself (jpg)](doc/normandy_track.jpg)](track/normandy.svg)
+
+The current version of the Britain track (click to get to the SVG):
+
+[![the track itself (jpg)](doc/britain_track.jpg)](track/britain.svg)
+
+
+## brother printer minimal margins
+
+As a note to myself, 0.16" on all sides.
 
 
 ## license
