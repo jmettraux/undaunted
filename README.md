@@ -12,9 +12,9 @@ The track as first used:
 
 ![the track in use](doc/track_photo.jpg)
 
-The current version of the track (click to get to the SVG):
+The current version of the Normandy track (click to get to the SVG):
 
-[![the track itself (jpg)](doc/track.jpg)](track/track.svg)
+[![the track itself (jpg)](doc/track.jpg)](track/normandy.svg)
 
 
 ## license
